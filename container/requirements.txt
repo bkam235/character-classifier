@@ -1,0 +1,4 @@
+wand
+numpy
+opencv-contrib-python
+joblib
