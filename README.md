@@ -25,9 +25,3 @@ In der interaktiven shell im Container dann ausführen:
 `train.py` trainiert ein Mini-VGG-16 und speichert es als `numeric_char_classifier.h5`.
 
 `predict.py` schreibt auf eine JPG-Datei (im Beispiel `IBAN.jpg`) die erkannten Ziffer an die Konturen.
-
-
-
-
-
-Dann: `split_data.py` \>\>\> `train.py` \>\>\> `predict.py`
